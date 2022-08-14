@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiarashafarin
+- 👋 Hi, I’m @KiarashAfarin
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning Frontend(vuejs,vuetify)
 - 💞️ I’m looking to collaborate on ...
